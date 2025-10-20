@@ -1,6 +1,5 @@
 # 🚗 Parking Usage Analytics
 
-[![CI](https://img.shields.io/github/actions/workflow/status/saimadhu27/parking-usage-analytics/ci.yml?label=CI)](./.github/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📖 Overview
@@ -14,6 +13,14 @@ It combines **Python-based preprocessing** with **Power BI visualization** to ge
 - Identify **most frequent peak hours** (not just single-day spikes)
 - Calculate **average occupancy** and **median parking duration**
 - Present findings in an **interactive Power BI dashboard**
+
+---
+
+## 📊 Power BI Dashboard
+
+Below is a snapshot of the Power BI report generated from the processed parking usage data:
+
+![Power BI Dashboard](reports/final_report.png)
 
 ---
 
